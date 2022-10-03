@@ -10,6 +10,7 @@ To get ready for the IELTS oral exam, by drawing a vocabulary map on several sub
 1. [A thing you have bought recently](https://github.com/IMT-Atlantique-FIL-2020-2023/IELTS-vocabulary-map/#1-a-thing-you-have-bought-recently)
 2. [Your dream house](https://github.com/IMT-Atlantique-FIL-2020-2023/IELTS-vocabulary-map/#2-your-dream-house)
 3. [An old building](https://github.com/IMT-Atlantique-FIL-2020-2023/IELTS-vocabulary-map/#3-an-old-bulding)
+4. [Politics](https://github.com/IMT-Atlantique-FIL-2020-2023/IELTS-vocabulary-map/#4-politics)
 
 ### 0. Template
 
@@ -69,6 +70,52 @@ To get ready for the IELTS oral exam, by drawing a vocabulary map on several sub
 | savoir-faire          | know-how           |
 | artisan               | craftperson        |
 | fait main             | handmade           |
+
+## 4. Politics
+
+| Français                                     | English                       |
+| -------------------------------------------- | ----------------------------- |
+| parlement                                    |                               |
+| démocratie                                   |                               |
+| constitution                                 |                               |
+| voter une loie                               |                               |
+| dériver                                      | to slide                      |
+| partisans                                    | supporter, partisan, follower |
+| fidèle                                       | loyal, faithful               |
+| têtu                                         | obstinate, stubborn           |
+| conviction                                   | faith                         |
+| assesseur                                    | ballet counter                |
+|                                              | ballot card                   |
+|                                              | polling station               |
+|                                              | election results              |
+|                                              | voting booth                  |
+|                                              | votes                         |
+|                                              | high turnout                  |
+|                                              | former president              |
+|                                              | to postpone                   |
+|                                              | to held                       |
+|                                              | to stand for                  |
+|                                              | boycott                       |
+|                                              | to rig                        |
+|                                              | presidential candidate        |
+|                                              | running mate                  |
+|                                              | the first lady                |
+| expert en manipulation de l'opinion publique | a spin doctor                 |
+|                                              | an election clerk             |
+|                                              | a front runner                |
+|                                              | a supporter                   |
+| adopter une loi                              | to                            |
+| voter une loi                                | to                            |
+| proposer un projet                           | to                            |
+| manipuler les foules                         |                               |
+|                                              |                               |
+|                                              |                               |
+|                                              |                               |
+|                                              |                               |
+|                                              |                               |
+|                                              |                               |
+|                                              |                               |
+|                                              |                               |
 
 ## Idiomatic expressions
 
